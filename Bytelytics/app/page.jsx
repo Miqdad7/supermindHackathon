@@ -54,7 +54,7 @@ export default function Home() {
           <Link href={'/dashboard'} className="px-8 py-3 rounded-lg bg-teal-600 text-white hover:bg-teal-700 transition-colors w-full sm:w-auto font-medium">
             View Dashboard
           </Link>
-          <Link href={'https://github.com/Miqdad7/'} className="px-8 py-3 rounded-lg bg-teal-600 text-white hover:bg-teal-700 transition-colors w-full sm:w-auto font-medium">
+          <Link href={'https://github.com/Miqdad7/supermindHackathon'} className="px-8 py-3 rounded-lg bg-teal-600 text-white hover:bg-teal-700 transition-colors w-full sm:w-auto font-medium">
             View Github Repo
           </Link>
           
