@@ -36,7 +36,7 @@ export default function Navbar() {
                             className="px-4 sm:px-6 py-2 rounded-lg border border-gray-700 text-gray-300 hover:bg-gray-800 transition-colors">
                             Graph
                         </Link>
-                        <Link href={'https://github.com/Miqdad7'} className="px-4 py-2 rounded-lg bg-teal-600 text-white hover:bg-teal-700 transition-colors w-full sm:w-auto font-medium">
+                        <Link href={'https://github.com/Miqdad7/supermindHackathon'} className="px-4 py-2 rounded-lg bg-teal-600 text-white hover:bg-teal-700 transition-colors w-full sm:w-auto font-medium">
                         Git Repo
                         </Link>
                         
@@ -51,7 +51,7 @@ export default function Navbar() {
                                 className="px-4 py-2 rounded-lg border border-gray-700 text-gray-300 hover:bg-gray-800 transition-colors text-center">
                                 Dashboard
                             </Link>
-                            <Link href={'https://github.com/Miqdad7'} className="px-8 py-3 rounded-lg bg-teal-600 text-white hover:bg-teal-700 transition-colors w-full sm:w-auto font-medium">
+                            <Link href={'https://github.com/Miqdad7/supermindHackathon'} className="px-8 py-3 rounded-lg bg-teal-600 text-white hover:bg-teal-700 transition-colors w-full sm:w-auto font-medium">
                                 Git Repo
                             </Link>
                             <Link href="/tableau"
