@@ -56,12 +56,9 @@ export default function Navbar() {
                             </Link>
                             <Link href="/tableau"
                                 className="px-4 py-2 rounded-lg border border-gray-700 text-gray-300 hover:bg-gray-800 transition-colors text-center">
-                                Tableau
+                                Graph
                             </Link>
-                            <Link href="#demo"
-                                className="px-4 py-2 rounded-lg bg-teal-600 text-white hover:bg-teal-700 transition-colors text-center">
-                                View Demo
-                            </Link>
+                            
                         </div>
                     </div>
                 )}
